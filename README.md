@@ -15,7 +15,6 @@ Asim said to me :
 > Chey kahan gaib tha
 
 Learn `github` has been exicitng
-
 you can visit [my website](tarbus.ca)
 
 let create a doto list
@@ -34,7 +33,7 @@ Nested lists
     - Third nest
 
 Task lists
-- [] go home
-- [] watch movies
+- [ ] go home
+- [ ] watch movies
 - [x] sleep off
 
