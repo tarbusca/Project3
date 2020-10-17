@@ -2,12 +2,20 @@
 ## Learning Git
 
 **This is going to be fun**
+
 __Although this is also bold__
+
 *you are my hero*
+
 ~~This Text was useless~~
+
 ***There you are my friend***
-Asim said to me : > Chey kahan gaib tha
+
+Asim said to me : 
+> Chey kahan gaib tha
+
 Learn `github` has been exicitng
+
 you can visit [my website](tarbus.ca)
 
 let create a doto list
@@ -26,7 +34,7 @@ Nested lists
     - Third nest
 
 Task lists
-[] go home
-[] watch movies
-[x] sleep off
+- [] go home
+- [] watch movies
+- [x] sleep off
 
